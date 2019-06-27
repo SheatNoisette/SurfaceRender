@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldTraveler", "WorldTraveler\WorldTraveler.csproj", "{C08B65EB-6CA4-424E-932C-108C6A29CF6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Surface", "Surface\Surface.csproj", "{AE351FB1-A14B-42B5-8CC5-9AEC0CC7B86F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsciiEditor", "AsciiEditor\AsciiEditor.csproj", "{8959B875-A33D-46ED-AAF5-DE5BEC10FB0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C08B65EB-6CA4-424E-932C-108C6A29CF6B}.Debug|x86.ActiveCfg = Debug|x86
+		{C08B65EB-6CA4-424E-932C-108C6A29CF6B}.Debug|x86.Build.0 = Debug|x86
+		{C08B65EB-6CA4-424E-932C-108C6A29CF6B}.Release|x86.ActiveCfg = Release|x86
+		{C08B65EB-6CA4-424E-932C-108C6A29CF6B}.Release|x86.Build.0 = Release|x86
+		{AE351FB1-A14B-42B5-8CC5-9AEC0CC7B86F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AE351FB1-A14B-42B5-8CC5-9AEC0CC7B86F}.Debug|x86.Build.0 = Debug|Any CPU
+		{AE351FB1-A14B-42B5-8CC5-9AEC0CC7B86F}.Release|x86.ActiveCfg = Release|Any CPU
+		{AE351FB1-A14B-42B5-8CC5-9AEC0CC7B86F}.Release|x86.Build.0 = Release|Any CPU
+		{8959B875-A33D-46ED-AAF5-DE5BEC10FB0C}.Debug|x86.ActiveCfg = Debug|x86
+		{8959B875-A33D-46ED-AAF5-DE5BEC10FB0C}.Debug|x86.Build.0 = Debug|x86
+		{8959B875-A33D-46ED-AAF5-DE5BEC10FB0C}.Release|x86.ActiveCfg = Release|x86
+		{8959B875-A33D-46ED-AAF5-DE5BEC10FB0C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		description = SheatNoisette and other
+	EndGlobalSection
+EndGlobal
